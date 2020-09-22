@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-![image](https://github.com/zfgandroid/PrivacyView/blob/master/PrivacyView.gif)
-
-博客链接：https://blog.csdn.net/zhongfangguiyishi/article/details/104743448
+博客链接
 =======
-# PrivacyTest
-隐私协议弹窗的demo项目
->>>>>>> 0437615d665d755410311559e00711b35a48d70b
+
+[Android用户协议与隐私政策实现](https://blog.csdn.net/zhongfangguiyishi/article/details/104743448)
+
+[隐私协议&授权访问的实现](https://blog.csdn.net/lxy1740/article/details/108623582)
+
